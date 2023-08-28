@@ -2,6 +2,8 @@
 
 pip install websocket
 
+pip install pygame
+
 pip install websocket-client
 
 文件说明
